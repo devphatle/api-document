@@ -1,0 +1,19 @@
+{
+  "name": "api-dashboard",
+  "version": "1.0.0",
+  "description": "hander api aoolication",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "author": "phatle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.5",
+    "morgan": "^1.8.2"
+  }
+}
